@@ -1,0 +1,5 @@
+[console_scripts]
+client = Collaborate_mapping.client:main
+multi_dog_composition = Collaborate_mapping.multi_dog_composition:main
+server = Collaborate_mapping.Image_replacer:main
+

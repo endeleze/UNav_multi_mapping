@@ -1,0 +1,29 @@
+[0.264s] Invoking command in '/home/endeleze/Desktop/ros2/UNav_ws/src/Collaborate_mapping': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/endeleze/Desktop/ros2/UNav_ws/build/Collaborate_mapping/prefix_override:/home/endeleze/Desktop/ros2/UNav_ws/install/Collaborate_mapping/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/Collaborate_mapping build --build-base /home/endeleze/Desktop/ros2/UNav_ws/build/Collaborate_mapping/build install --record /home/endeleze/Desktop/ros2/UNav_ws/build/Collaborate_mapping/install.log --install-scripts $base/lib/Collaborate_mapping --single-version-externally-managed
+[0.351s] running egg_info
+[0.352s] writing ../../build/Collaborate_mapping/Collaborate_mapping.egg-info/PKG-INFO
+[0.352s] writing dependency_links to ../../build/Collaborate_mapping/Collaborate_mapping.egg-info/dependency_links.txt
+[0.352s] writing entry points to ../../build/Collaborate_mapping/Collaborate_mapping.egg-info/entry_points.txt
+[0.352s] writing requirements to ../../build/Collaborate_mapping/Collaborate_mapping.egg-info/requires.txt
+[0.352s] writing top-level names to ../../build/Collaborate_mapping/Collaborate_mapping.egg-info/top_level.txt
+[0.366s] reading manifest file '../../build/Collaborate_mapping/Collaborate_mapping.egg-info/SOURCES.txt'
+[0.367s] writing manifest file '../../build/Collaborate_mapping/Collaborate_mapping.egg-info/SOURCES.txt'
+[0.367s] running build
+[0.367s] running build_py
+[0.367s] copying Collaborate_mapping/multi_dog_composition.py -> /home/endeleze/Desktop/ros2/UNav_ws/build/Collaborate_mapping/build/lib/Collaborate_mapping
+[0.367s] copying Collaborate_mapping/RobotDog.py -> /home/endeleze/Desktop/ros2/UNav_ws/build/Collaborate_mapping/build/lib/Collaborate_mapping
+[0.367s] running install
+[0.367s] running install_lib
+[0.368s] copying /home/endeleze/Desktop/ros2/UNav_ws/build/Collaborate_mapping/build/lib/Collaborate_mapping/multi_dog_composition.py -> /home/endeleze/Desktop/ros2/UNav_ws/install/Collaborate_mapping/lib/python3.8/site-packages/Collaborate_mapping
+[0.368s] copying /home/endeleze/Desktop/ros2/UNav_ws/build/Collaborate_mapping/build/lib/Collaborate_mapping/RobotDog.py -> /home/endeleze/Desktop/ros2/UNav_ws/install/Collaborate_mapping/lib/python3.8/site-packages/Collaborate_mapping
+[0.368s] byte-compiling /home/endeleze/Desktop/ros2/UNav_ws/install/Collaborate_mapping/lib/python3.8/site-packages/Collaborate_mapping/multi_dog_composition.py to multi_dog_composition.cpython-38.pyc
+[0.368s] byte-compiling /home/endeleze/Desktop/ros2/UNav_ws/install/Collaborate_mapping/lib/python3.8/site-packages/Collaborate_mapping/RobotDog.py to RobotDog.cpython-38.pyc
+[0.369s] running install_data
+[0.369s] running install_egg_info
+[0.369s] removing '/home/endeleze/Desktop/ros2/UNav_ws/install/Collaborate_mapping/lib/python3.8/site-packages/Collaborate_mapping-0.0.0-py3.8.egg-info' (and everything under it)
+[0.369s] Copying ../../build/Collaborate_mapping/Collaborate_mapping.egg-info to /home/endeleze/Desktop/ros2/UNav_ws/install/Collaborate_mapping/lib/python3.8/site-packages/Collaborate_mapping-0.0.0-py3.8.egg-info
+[0.370s] running install_scripts
+[0.377s] Installing client script to /home/endeleze/Desktop/ros2/UNav_ws/install/Collaborate_mapping/lib/Collaborate_mapping
+[0.377s] Installing multi_dog_composition script to /home/endeleze/Desktop/ros2/UNav_ws/install/Collaborate_mapping/lib/Collaborate_mapping
+[0.377s] Installing server script to /home/endeleze/Desktop/ros2/UNav_ws/install/Collaborate_mapping/lib/Collaborate_mapping
+[0.377s] writing list of installed files to '/home/endeleze/Desktop/ros2/UNav_ws/build/Collaborate_mapping/install.log'
+[0.388s] Invoked command in '/home/endeleze/Desktop/ros2/UNav_ws/src/Collaborate_mapping' returned '0': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/endeleze/Desktop/ros2/UNav_ws/build/Collaborate_mapping/prefix_override:/home/endeleze/Desktop/ros2/UNav_ws/install/Collaborate_mapping/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/Collaborate_mapping build --build-base /home/endeleze/Desktop/ros2/UNav_ws/build/Collaborate_mapping/build install --record /home/endeleze/Desktop/ros2/UNav_ws/build/Collaborate_mapping/install.log --install-scripts $base/lib/Collaborate_mapping --single-version-externally-managed

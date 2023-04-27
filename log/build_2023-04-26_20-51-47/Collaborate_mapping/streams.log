@@ -1,0 +1,50 @@
+[0.263s] Invoking command in '/home/endeleze/Desktop/ros2/UNav_ws/src/Collaborate_mapping': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/endeleze/Desktop/ros2/UNav_ws/build/Collaborate_mapping/prefix_override:/home/endeleze/Desktop/ros2/UNav_ws/install/Collaborate_mapping/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/Collaborate_mapping build --build-base /home/endeleze/Desktop/ros2/UNav_ws/build/Collaborate_mapping/build install --record /home/endeleze/Desktop/ros2/UNav_ws/build/Collaborate_mapping/install.log --install-scripts $base/lib/Collaborate_mapping --single-version-externally-managed
+[0.348s] running egg_info
+[0.348s] creating ../../build/Collaborate_mapping/Collaborate_mapping.egg-info
+[0.348s] writing ../../build/Collaborate_mapping/Collaborate_mapping.egg-info/PKG-INFO
+[0.348s] writing dependency_links to ../../build/Collaborate_mapping/Collaborate_mapping.egg-info/dependency_links.txt
+[0.348s] writing entry points to ../../build/Collaborate_mapping/Collaborate_mapping.egg-info/entry_points.txt
+[0.348s] writing requirements to ../../build/Collaborate_mapping/Collaborate_mapping.egg-info/requires.txt
+[0.348s] writing top-level names to ../../build/Collaborate_mapping/Collaborate_mapping.egg-info/top_level.txt
+[0.348s] writing manifest file '../../build/Collaborate_mapping/Collaborate_mapping.egg-info/SOURCES.txt'
+[0.362s] reading manifest file '../../build/Collaborate_mapping/Collaborate_mapping.egg-info/SOURCES.txt'
+[0.362s] writing manifest file '../../build/Collaborate_mapping/Collaborate_mapping.egg-info/SOURCES.txt'
+[0.362s] running build
+[0.362s] running build_py
+[0.362s] creating /home/endeleze/Desktop/ros2/UNav_ws/build/Collaborate_mapping/build
+[0.362s] creating /home/endeleze/Desktop/ros2/UNav_ws/build/Collaborate_mapping/build/lib
+[0.362s] creating /home/endeleze/Desktop/ros2/UNav_ws/build/Collaborate_mapping/build/lib/Collaborate_mapping
+[0.362s] copying Collaborate_mapping/Image_collector.py -> /home/endeleze/Desktop/ros2/UNav_ws/build/Collaborate_mapping/build/lib/Collaborate_mapping
+[0.362s] copying Collaborate_mapping/map_information.py -> /home/endeleze/Desktop/ros2/UNav_ws/build/Collaborate_mapping/build/lib/Collaborate_mapping
+[0.362s] copying Collaborate_mapping/Image_replacer.py -> /home/endeleze/Desktop/ros2/UNav_ws/build/Collaborate_mapping/build/lib/Collaborate_mapping
+[0.362s] copying Collaborate_mapping/agent_client.py -> /home/endeleze/Desktop/ros2/UNav_ws/build/Collaborate_mapping/build/lib/Collaborate_mapping
+[0.362s] copying Collaborate_mapping/map_server.py -> /home/endeleze/Desktop/ros2/UNav_ws/build/Collaborate_mapping/build/lib/Collaborate_mapping
+[0.362s] copying Collaborate_mapping/__init__.py -> /home/endeleze/Desktop/ros2/UNav_ws/build/Collaborate_mapping/build/lib/Collaborate_mapping
+[0.363s] running install
+[0.363s] running install_lib
+[0.363s] creating /home/endeleze/Desktop/ros2/UNav_ws/install/Collaborate_mapping/lib/python3.8/site-packages/Collaborate_mapping
+[0.363s] copying /home/endeleze/Desktop/ros2/UNav_ws/build/Collaborate_mapping/build/lib/Collaborate_mapping/Image_collector.py -> /home/endeleze/Desktop/ros2/UNav_ws/install/Collaborate_mapping/lib/python3.8/site-packages/Collaborate_mapping
+[0.363s] copying /home/endeleze/Desktop/ros2/UNav_ws/build/Collaborate_mapping/build/lib/Collaborate_mapping/map_information.py -> /home/endeleze/Desktop/ros2/UNav_ws/install/Collaborate_mapping/lib/python3.8/site-packages/Collaborate_mapping
+[0.363s] copying /home/endeleze/Desktop/ros2/UNav_ws/build/Collaborate_mapping/build/lib/Collaborate_mapping/Image_replacer.py -> /home/endeleze/Desktop/ros2/UNav_ws/install/Collaborate_mapping/lib/python3.8/site-packages/Collaborate_mapping
+[0.363s] copying /home/endeleze/Desktop/ros2/UNav_ws/build/Collaborate_mapping/build/lib/Collaborate_mapping/agent_client.py -> /home/endeleze/Desktop/ros2/UNav_ws/install/Collaborate_mapping/lib/python3.8/site-packages/Collaborate_mapping
+[0.363s] copying /home/endeleze/Desktop/ros2/UNav_ws/build/Collaborate_mapping/build/lib/Collaborate_mapping/map_server.py -> /home/endeleze/Desktop/ros2/UNav_ws/install/Collaborate_mapping/lib/python3.8/site-packages/Collaborate_mapping
+[0.363s] copying /home/endeleze/Desktop/ros2/UNav_ws/build/Collaborate_mapping/build/lib/Collaborate_mapping/__init__.py -> /home/endeleze/Desktop/ros2/UNav_ws/install/Collaborate_mapping/lib/python3.8/site-packages/Collaborate_mapping
+[0.363s] byte-compiling /home/endeleze/Desktop/ros2/UNav_ws/install/Collaborate_mapping/lib/python3.8/site-packages/Collaborate_mapping/Image_collector.py to Image_collector.cpython-38.pyc
+[0.364s] byte-compiling /home/endeleze/Desktop/ros2/UNav_ws/install/Collaborate_mapping/lib/python3.8/site-packages/Collaborate_mapping/map_information.py to map_information.cpython-38.pyc
+[0.364s] byte-compiling /home/endeleze/Desktop/ros2/UNav_ws/install/Collaborate_mapping/lib/python3.8/site-packages/Collaborate_mapping/Image_replacer.py to Image_replacer.cpython-38.pyc
+[0.364s] byte-compiling /home/endeleze/Desktop/ros2/UNav_ws/install/Collaborate_mapping/lib/python3.8/site-packages/Collaborate_mapping/agent_client.py to agent_client.cpython-38.pyc
+[0.364s] byte-compiling /home/endeleze/Desktop/ros2/UNav_ws/install/Collaborate_mapping/lib/python3.8/site-packages/Collaborate_mapping/map_server.py to map_server.cpython-38.pyc
+[0.364s] byte-compiling /home/endeleze/Desktop/ros2/UNav_ws/install/Collaborate_mapping/lib/python3.8/site-packages/Collaborate_mapping/__init__.py to __init__.cpython-38.pyc
+[0.364s] running install_data
+[0.364s] creating /home/endeleze/Desktop/ros2/UNav_ws/install/Collaborate_mapping/share/ament_index
+[0.364s] creating /home/endeleze/Desktop/ros2/UNav_ws/install/Collaborate_mapping/share/ament_index/resource_index
+[0.364s] creating /home/endeleze/Desktop/ros2/UNav_ws/install/Collaborate_mapping/share/ament_index/resource_index/packages
+[0.364s] copying resource/Collaborate_mapping -> /home/endeleze/Desktop/ros2/UNav_ws/install/Collaborate_mapping/share/ament_index/resource_index/packages
+[0.364s] copying package.xml -> /home/endeleze/Desktop/ros2/UNav_ws/install/Collaborate_mapping/share/Collaborate_mapping
+[0.364s] running install_egg_info
+[0.365s] Copying ../../build/Collaborate_mapping/Collaborate_mapping.egg-info to /home/endeleze/Desktop/ros2/UNav_ws/install/Collaborate_mapping/lib/python3.8/site-packages/Collaborate_mapping-0.0.0-py3.8.egg-info
+[0.365s] running install_scripts
+[0.372s] Installing client script to /home/endeleze/Desktop/ros2/UNav_ws/install/Collaborate_mapping/lib/Collaborate_mapping
+[0.372s] Installing server script to /home/endeleze/Desktop/ros2/UNav_ws/install/Collaborate_mapping/lib/Collaborate_mapping
+[0.372s] writing list of installed files to '/home/endeleze/Desktop/ros2/UNav_ws/build/Collaborate_mapping/install.log'
+[0.386s] Invoked command in '/home/endeleze/Desktop/ros2/UNav_ws/src/Collaborate_mapping' returned '0': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/endeleze/Desktop/ros2/UNav_ws/build/Collaborate_mapping/prefix_override:/home/endeleze/Desktop/ros2/UNav_ws/install/Collaborate_mapping/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/Collaborate_mapping build --build-base /home/endeleze/Desktop/ros2/UNav_ws/build/Collaborate_mapping/build install --record /home/endeleze/Desktop/ros2/UNav_ws/build/Collaborate_mapping/install.log --install-scripts $base/lib/Collaborate_mapping --single-version-externally-managed
