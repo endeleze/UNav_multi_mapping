@@ -21,7 +21,7 @@ setup(
     entry_points={
         'console_scripts': [
         'server = Collaborate_mapping.Image_replacer:main',
-        'client = Collaborate_mapping.client:main',
+        'client = Collaborate_mapping.RobotDog:main',
         'multi_dog_composition = Collaborate_mapping.multi_dog_composition:main'
         ],
     },

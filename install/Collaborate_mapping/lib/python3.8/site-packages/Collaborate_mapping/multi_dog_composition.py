@@ -3,8 +3,9 @@
 import rclpy
 from rclpy.executors import MultiThreadedExecutor
 
-from Collaborate_mapping.RobotDog import RobotDog
 from Collaborate_mapping.Image_replacer import ImageReplacer
+from Collaborate_mapping.RobotDog import RobotDog
+
 
 def main(args=None):
     rclpy.init(args=args)
