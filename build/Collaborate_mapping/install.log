@@ -1,17 +1,7 @@
-/home/endeleze/Desktop/ros2/UNav_ws/install/Collaborate_mapping/lib/python3.8/site-packages/Collaborate_mapping/map_information.py
-/home/endeleze/Desktop/ros2/UNav_ws/install/Collaborate_mapping/lib/python3.8/site-packages/Collaborate_mapping/Image_replacer.py
-/home/endeleze/Desktop/ros2/UNav_ws/install/Collaborate_mapping/lib/python3.8/site-packages/Collaborate_mapping/agent_client.py
-/home/endeleze/Desktop/ros2/UNav_ws/install/Collaborate_mapping/lib/python3.8/site-packages/Collaborate_mapping/map_server.py
 /home/endeleze/Desktop/ros2/UNav_ws/install/Collaborate_mapping/lib/python3.8/site-packages/Collaborate_mapping/__init__.py
-/home/endeleze/Desktop/ros2/UNav_ws/install/Collaborate_mapping/lib/python3.8/site-packages/Collaborate_mapping/multi_dog_composition.py
-/home/endeleze/Desktop/ros2/UNav_ws/install/Collaborate_mapping/lib/python3.8/site-packages/Collaborate_mapping/RobotDog.py
-/home/endeleze/Desktop/ros2/UNav_ws/install/Collaborate_mapping/lib/python3.8/site-packages/Collaborate_mapping/__pycache__/map_information.cpython-38.pyc
-/home/endeleze/Desktop/ros2/UNav_ws/install/Collaborate_mapping/lib/python3.8/site-packages/Collaborate_mapping/__pycache__/Image_replacer.cpython-38.pyc
-/home/endeleze/Desktop/ros2/UNav_ws/install/Collaborate_mapping/lib/python3.8/site-packages/Collaborate_mapping/__pycache__/agent_client.cpython-38.pyc
-/home/endeleze/Desktop/ros2/UNav_ws/install/Collaborate_mapping/lib/python3.8/site-packages/Collaborate_mapping/__pycache__/map_server.cpython-38.pyc
+/home/endeleze/Desktop/ros2/UNav_ws/install/Collaborate_mapping/lib/python3.8/site-packages/Collaborate_mapping/launch.py
 /home/endeleze/Desktop/ros2/UNav_ws/install/Collaborate_mapping/lib/python3.8/site-packages/Collaborate_mapping/__pycache__/__init__.cpython-38.pyc
-/home/endeleze/Desktop/ros2/UNav_ws/install/Collaborate_mapping/lib/python3.8/site-packages/Collaborate_mapping/__pycache__/multi_dog_composition.cpython-38.pyc
-/home/endeleze/Desktop/ros2/UNav_ws/install/Collaborate_mapping/lib/python3.8/site-packages/Collaborate_mapping/__pycache__/RobotDog.cpython-38.pyc
+/home/endeleze/Desktop/ros2/UNav_ws/install/Collaborate_mapping/lib/python3.8/site-packages/Collaborate_mapping/__pycache__/launch.cpython-38.pyc
 /home/endeleze/Desktop/ros2/UNav_ws/install/Collaborate_mapping/share/ament_index/resource_index/packages/Collaborate_mapping
 /home/endeleze/Desktop/ros2/UNav_ws/install/Collaborate_mapping/share/Collaborate_mapping/package.xml
 /home/endeleze/Desktop/ros2/UNav_ws/install/Collaborate_mapping/lib/python3.8/site-packages/Collaborate_mapping-0.0.0-py3.8.egg-info/top_level.txt
@@ -21,6 +11,4 @@
 /home/endeleze/Desktop/ros2/UNav_ws/install/Collaborate_mapping/lib/python3.8/site-packages/Collaborate_mapping-0.0.0-py3.8.egg-info/entry_points.txt
 /home/endeleze/Desktop/ros2/UNav_ws/install/Collaborate_mapping/lib/python3.8/site-packages/Collaborate_mapping-0.0.0-py3.8.egg-info/dependency_links.txt
 /home/endeleze/Desktop/ros2/UNav_ws/install/Collaborate_mapping/lib/python3.8/site-packages/Collaborate_mapping-0.0.0-py3.8.egg-info/requires.txt
-/home/endeleze/Desktop/ros2/UNav_ws/install/Collaborate_mapping/lib/Collaborate_mapping/client
-/home/endeleze/Desktop/ros2/UNav_ws/install/Collaborate_mapping/lib/Collaborate_mapping/multi_dog_composition
-/home/endeleze/Desktop/ros2/UNav_ws/install/Collaborate_mapping/lib/Collaborate_mapping/server
+/home/endeleze/Desktop/ros2/UNav_ws/install/Collaborate_mapping/lib/Collaborate_mapping/launch

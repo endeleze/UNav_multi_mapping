@@ -1,0 +1,22 @@
+running egg_info
+writing ../../build/Collaborate_mapping/Collaborate_mapping.egg-info/PKG-INFO
+writing dependency_links to ../../build/Collaborate_mapping/Collaborate_mapping.egg-info/dependency_links.txt
+writing entry points to ../../build/Collaborate_mapping/Collaborate_mapping.egg-info/entry_points.txt
+writing requirements to ../../build/Collaborate_mapping/Collaborate_mapping.egg-info/requires.txt
+writing top-level names to ../../build/Collaborate_mapping/Collaborate_mapping.egg-info/top_level.txt
+reading manifest file '../../build/Collaborate_mapping/Collaborate_mapping.egg-info/SOURCES.txt'
+writing manifest file '../../build/Collaborate_mapping/Collaborate_mapping.egg-info/SOURCES.txt'
+running build
+running build_py
+copying Collaborate_mapping/launch.py -> /home/endeleze/Desktop/ros2/UNav_ws/build/Collaborate_mapping/build/lib/Collaborate_mapping
+running install
+running install_lib
+copying /home/endeleze/Desktop/ros2/UNav_ws/build/Collaborate_mapping/build/lib/Collaborate_mapping/launch.py -> /home/endeleze/Desktop/ros2/UNav_ws/install/Collaborate_mapping/lib/python3.8/site-packages/Collaborate_mapping
+byte-compiling /home/endeleze/Desktop/ros2/UNav_ws/install/Collaborate_mapping/lib/python3.8/site-packages/Collaborate_mapping/launch.py to launch.cpython-38.pyc
+running install_data
+running install_egg_info
+removing '/home/endeleze/Desktop/ros2/UNav_ws/install/Collaborate_mapping/lib/python3.8/site-packages/Collaborate_mapping-0.0.0-py3.8.egg-info' (and everything under it)
+Copying ../../build/Collaborate_mapping/Collaborate_mapping.egg-info to /home/endeleze/Desktop/ros2/UNav_ws/install/Collaborate_mapping/lib/python3.8/site-packages/Collaborate_mapping-0.0.0-py3.8.egg-info
+running install_scripts
+Installing launch script to /home/endeleze/Desktop/ros2/UNav_ws/install/Collaborate_mapping/lib/Collaborate_mapping
+writing list of installed files to '/home/endeleze/Desktop/ros2/UNav_ws/build/Collaborate_mapping/install.log'

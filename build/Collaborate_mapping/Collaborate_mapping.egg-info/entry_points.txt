@@ -1,5 +1,3 @@
 [console_scripts]
-client = Collaborate_mapping.RobotDog:main
-multi_dog_composition = Collaborate_mapping.multi_dog_composition:main
-server = Collaborate_mapping.Image_replacer:main
+launch = Collaborate_mapping.launch:main
 

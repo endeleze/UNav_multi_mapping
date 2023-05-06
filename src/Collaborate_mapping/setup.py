@@ -20,9 +20,7 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
-        'server = Collaborate_mapping.Image_replacer:main',
-        'client = Collaborate_mapping.RobotDog:main',
-        'multi_dog_composition = Collaborate_mapping.multi_dog_composition:main'
+        'launch=Collaborate_mapping.launch:main'
         ],
     },
 )

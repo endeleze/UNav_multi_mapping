@@ -8,13 +8,8 @@ setup.py
 ../../build/Collaborate_mapping/Collaborate_mapping.egg-info/requires.txt
 ../../build/Collaborate_mapping/Collaborate_mapping.egg-info/top_level.txt
 ../../build/Collaborate_mapping/Collaborate_mapping.egg-info/zip-safe
-Collaborate_mapping/Image_replacer.py
-Collaborate_mapping/RobotDog.py
 Collaborate_mapping/__init__.py
-Collaborate_mapping/agent_client.py
-Collaborate_mapping/map_information.py
-Collaborate_mapping/map_server.py
-Collaborate_mapping/multi_dog_composition.py
+Collaborate_mapping/launch.py
 resource/Collaborate_mapping
 test/test_copyright.py
 test/test_flake8.py
